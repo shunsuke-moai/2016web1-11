@@ -12,4 +12,4 @@ if(answer==number){
   message='ちゃんと入力してくれよ';
 }
 
-console.log(message);
+var answer=parseInt(window.prompt(message));
